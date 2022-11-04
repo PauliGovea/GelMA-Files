@@ -18,6 +18,7 @@ Raw Files (Groups):
 
 
 Raw Files 2:
+
 F1_A = Average Force of all the samples of A (GelMA only, SMPEG2, EGFP, etc.)
 
 Strk_A = Average Stroke of all the samples of A (GelMA only, SMPEG2, EGFP, etc.)
